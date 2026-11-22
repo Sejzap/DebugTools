@@ -33,8 +33,11 @@
 
 
 ```bash
-
 cl /EHsc /std:c++17 /MT /DUNICODE /D\_UNICODE DebugTools.cpp /link /SUBSYSTEM:WINDOWS
+```
 
+克隆本仓库到本地
+```bash
+git clone https://github.com/Sejzap/DebugTools.git
 ```
 
