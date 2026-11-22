@@ -41,3 +41,5 @@ cl /EHsc /std:c++17 /MT /DUNICODE /D\_UNICODE DebugTools.cpp /link /SUBSYSTEM:WI
 git clone https://github.com/Sejzap/DebugTools.git
 ```
 
+程序截图
+<img width="262" height="293" alt="屏幕截图 2026-11-22 170530" src="https://github.com/user-attachments/assets/9d666e3f-26b1-4190-9f9a-280ee27bafa0" />
