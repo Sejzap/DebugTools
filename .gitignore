@@ -1,0 +1,15 @@
+# Visual Studio 生成的文件
+.vs/
+Debug/
+Release/
+x64/
+x86/
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# 编译出的 exe
+*.exe
+*.obj
+*.pdb
